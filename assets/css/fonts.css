@@ -1,0 +1,15 @@
+/*
+ * Define new fonts here
+ */
+
+/*	
+ *	@font-face {
+ * 		font-family: '';
+ * 	 	src: url('');
+ *	}
+ */	
+
+@font-face {
+	font-family: 'BankGothic';
+ 	src: url('../fonts/BankGthd.ttf');
+}
